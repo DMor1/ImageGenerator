@@ -5,6 +5,7 @@ This basic program is used to test applications which utilize many images and ve
 
 Below is an example of the program running. Entering the following will create 100 .jpg images from 1.jpg to 100.jpg. The images will be placed in the "Images" folder.
 
+
 ******************************
 **  File Creator Generator  **
 ******************************
