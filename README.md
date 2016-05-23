@@ -13,5 +13,7 @@ Below is an example of the program running. Entering the following will create 1
 Note: Generates a variable number of files giving a number for their name
 
 Input the starting number (Name of the first file): 1
+
 Input the number of files to generate: 100
+
 Input the extension for the generated files: jpg
